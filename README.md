@@ -12,8 +12,8 @@ Para o desenvolvimento e a validação da prova de conceito, o projeto utiliza c
 
 ## Conteúdo desta 1ª etapa
 
-- Definição da fonte de dados, um dataset fictício de 300 projetos de implantação, estruturado com base em variáveis reais de um documento de handover técnico-comercial
-- Análise exploratória de dados com Pandas e NumPy
+- Definição da fonte de dados, um dataset fictício de 300 projetos de implantação, estruturado com base em variáveis reais de um documento de handover técnico-comercial;
+- Análise exploratória de dados com Pandas e NumPy;
 - Cinco visualizações com Matplotlib, com justificativa de como cada uma auxilia a tomada de decisão
 - Distribuição de horas por fase do projeto, seguindo as cinco fases da metodologia SAP AIP (Project Preparation, Business Blueprint, Project Realization, Final Preparation e Go-Live and Support)
 
