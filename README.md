@@ -38,7 +38,7 @@ Para o desenvolvimento e a validação da prova de conceito, o projeto utiliza c
 - Gabriel Polido
 - Giovanna Dainezi Franci
 - Luan Cunha de Farias
-- Taina Lima do Nascimento
+- Tainá Lima do Nascimento
 - Walquiria M. N. do Nascimento
 
 ## Disciplina
