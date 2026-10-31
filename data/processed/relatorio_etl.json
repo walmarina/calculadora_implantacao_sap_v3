@@ -1,0 +1,25 @@
+{
+  "registros_extraidos": 300,
+  "registros_rejeitados": 0,
+  "registros_validos": 300,
+  "violacoes_chave_estrangeira": 0,
+  "linhas_por_tabela": {
+    "tipo_ambiente": 2,
+    "modalidade": 2,
+    "faixa_volume_notas": 5,
+    "fase_aip": 5,
+    "projeto": 300,
+    "dw_dim_tempo": 271,
+    "dw_dim_ambiente": 2,
+    "dw_dim_modalidade": 2,
+    "dw_dim_porte": 3,
+    "dw_dim_faixa_notas": 5,
+    "dw_dim_indicadores": 4,
+    "dw_dim_fase": 5,
+    "dw_fato_projeto": 300,
+    "dw_fato_horas_fase": 1500
+  },
+  "soma_horas_fato_projeto": 118758.6,
+  "soma_horas_fato_fases": 118758.3,
+  "executado_em": "2026-10-25 11:49:39"
+}
