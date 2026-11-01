@@ -1,0 +1,301 @@
+projeto_id,numero_usuarios,numero_filiais,tipo_ambiente,modalidade,usa_van_bancaria,qtd_addons,plano_contas_customizado,qtd_modulos,complexidade_importacao,volume_notas_mensal,notas_mensal_num,horas_totais_implantacao,data_proposta
+PRJ1000,54,1,Compartilhado,Cloud,Não,4,Não,4,3,8.001 a 15.000,9815,273.4,2025-12-23
+PRJ1001,17,5,Compartilhado,On Premise,Não,1,Sim,3,7,8.001 a 15.000,14149,264.4,2023-08-17
+PRJ1002,74,3,Compartilhado,Cloud,Não,4,Não,2,10,8.001 a 15.000,12842,395.1,2023-02-03
+PRJ1003,63,4,Dedicado,Cloud,Não,6,Não,6,5,1.001 a 4.000,3790,443.2,2025-03-28
+PRJ1004,23,3,Dedicado,On Premise,Sim,0,Sim,5,8,8.001 a 15.000,12516,301.8,2024-04-11
+PRJ1005,85,1,Compartilhado,On Premise,Sim,2,Sim,5,1,8.001 a 15.000,12469,395.6,2024-08-19
+PRJ1006,89,1,Dedicado,Cloud,Não,1,Sim,4,3,1.001 a 4.000,1896,349.5,2023-04-12
+PRJ1007,77,5,Compartilhado,On Premise,Sim,3,Sim,2,3,1.001 a 4.000,1528,454.2,2024-04-18
+PRJ1008,77,6,Dedicado,Cloud,Sim,5,Não,3,9,8.001 a 15.000,10637,517.7,2025-04-01
+PRJ1009,26,3,Compartilhado,On Premise,Sim,6,Sim,2,5,8.001 a 15.000,14925,299.0,2024-03-29
+PRJ1010,5,9,Dedicado,Cloud,Sim,1,Não,1,9,Até 1.000,821,277.5,2025-11-27
+PRJ1011,24,5,Compartilhado,Cloud,Sim,3,Não,2,9,4.001 a 8.000,5575,314.2,2025-10-06
+PRJ1012,55,8,Compartilhado,On Premise,Não,5,Sim,1,1,8.001 a 15.000,14461,431.0,2025-06-18
+PRJ1013,4,1,Compartilhado,Cloud,Não,5,Não,1,2,8.001 a 15.000,8820,215.3,2026-03-01
+PRJ1014,32,5,Dedicado,Cloud,Não,1,Sim,3,5,8.001 a 15.000,11143,310.9,2025-07-09
+PRJ1015,40,3,Compartilhado,On Premise,Não,6,Não,6,4,8.001 a 15.000,13853,408.5,2023-08-15
+PRJ1016,4,1,Compartilhado,On Premise,Sim,4,Não,4,10,Até 1.000,243,332.7,2026-01-01
+PRJ1017,66,4,Compartilhado,Cloud,Não,4,Não,2,9,1.001 a 4.000,2057,331.7,2025-04-13
+PRJ1018,62,5,Compartilhado,Cloud,Não,5,Não,1,7,1.001 a 4.000,1235,371.4,2023-05-06
+PRJ1019,23,7,Compartilhado,Cloud,Sim,4,Sim,2,6,1.001 a 4.000,2444,330.0,2024-01-16
+PRJ1020,35,1,Compartilhado,Cloud,Não,0,Não,6,7,8.001 a 15.000,11240,268.5,2023-07-31
+PRJ1021,78,3,Compartilhado,Cloud,Não,5,Não,4,1,8.001 a 15.000,13722,457.2,2026-05-19
+PRJ1022,60,2,Compartilhado,Cloud,Não,5,Não,6,1,8.001 a 15.000,10034,398.9,2025-07-18
+PRJ1023,24,9,Compartilhado,On Premise,Não,3,Não,4,8,Acima de 15.000,15993,427.2,2026-03-20
+PRJ1024,51,10,Dedicado,Cloud,Não,4,Não,5,2,8.001 a 15.000,9352,495.1,2023-12-27
+PRJ1025,61,6,Dedicado,Cloud,Sim,6,Sim,4,10,4.001 a 8.000,4055,484.0,2025-03-23
+PRJ1026,44,10,Compartilhado,Cloud,Não,5,Sim,3,9,4.001 a 8.000,7479,460.9,2025-02-10
+PRJ1027,62,3,Compartilhado,On Premise,Sim,6,Não,6,7,1.001 a 4.000,2311,456.9,2025-08-19
+PRJ1028,82,8,Compartilhado,Cloud,Não,0,Sim,1,6,1.001 a 4.000,3786,458.1,2023-05-31
+PRJ1029,17,8,Compartilhado,Cloud,Não,3,Não,5,1,8.001 a 15.000,12035,375.0,2024-10-19
+PRJ1030,64,2,Dedicado,Cloud,Não,1,Não,3,1,8.001 a 15.000,10178,328.4,2025-04-03
+PRJ1031,64,6,Dedicado,Cloud,Não,6,Sim,2,2,4.001 a 8.000,6766,433.8,2025-11-20
+PRJ1032,49,7,Compartilhado,Cloud,Sim,5,Sim,6,6,4.001 a 8.000,4925,469.0,2025-04-17
+PRJ1033,64,2,Dedicado,On Premise,Sim,0,Não,1,6,8.001 a 15.000,12599,342.3,2024-07-26
+PRJ1034,53,11,Compartilhado,On Premise,Sim,2,Sim,4,2,8.001 a 15.000,8971,514.5,2024-08-10
+PRJ1035,57,10,Dedicado,Cloud,Sim,0,Não,1,1,4.001 a 8.000,4428,431.1,2024-03-08
+PRJ1036,66,2,Compartilhado,Cloud,Não,0,Sim,2,10,4.001 a 8.000,7865,304.5,2023-07-20
+PRJ1037,5,10,Compartilhado,On Premise,Não,3,Não,5,5,8.001 a 15.000,13828,310.5,2023-12-21
+PRJ1038,53,1,Compartilhado,On Premise,Sim,1,Sim,5,5,1.001 a 4.000,3501,312.1,2023-07-06
+PRJ1039,9,8,Compartilhado,Cloud,Não,2,Não,6,2,8.001 a 15.000,12699,361.5,2023-10-17
+PRJ1040,23,1,Dedicado,Cloud,Não,4,Não,5,6,4.001 a 8.000,7666,287.4,2025-12-26
+PRJ1041,75,9,Compartilhado,Cloud,Não,4,Não,6,9,8.001 a 15.000,12778,596.7,2024-11-02
+PRJ1042,41,11,Compartilhado,Cloud,Não,6,Sim,6,2,8.001 a 15.000,10382,538.0,2023-04-27
+PRJ1043,20,6,Dedicado,On Premise,Sim,0,Não,6,10,8.001 a 15.000,9886,377.5,2024-07-04
+PRJ1044,6,7,Compartilhado,On Premise,Não,3,Não,4,2,1.001 a 4.000,2850,312.4,2023-12-12
+PRJ1045,62,10,Compartilhado,On Premise,Não,3,Sim,3,3,8.001 a 15.000,13204,559.2,2025-04-26
+PRJ1046,16,7,Compartilhado,Cloud,Não,4,Sim,6,7,8.001 a 15.000,13785,384.4,2025-11-26
+PRJ1047,11,10,Compartilhado,Cloud,Sim,6,Sim,6,6,8.001 a 15.000,8383,377.3,2023-01-17
+PRJ1048,55,3,Compartilhado,On Premise,Não,6,Não,3,8,4.001 a 8.000,5460,368.8,2024-08-17
+PRJ1049,4,2,Compartilhado,On Premise,Sim,6,Não,1,8,1.001 a 4.000,1505,255.4,2024-07-25
+PRJ1050,86,9,Compartilhado,Cloud,Sim,2,Não,6,6,4.001 a 8.000,6942,557.7,2026-06-19
+PRJ1051,62,8,Compartilhado,On Premise,Não,1,Sim,4,10,8.001 a 15.000,14213,552.3,2024-04-11
+PRJ1052,73,10,Dedicado,On Premise,Não,2,Sim,5,3,8.001 a 15.000,14185,575.9,2023-07-30
+PRJ1053,46,7,Dedicado,Cloud,Não,5,Não,5,3,4.001 a 8.000,5858,458.6,2023-09-07
+PRJ1054,10,9,Dedicado,Cloud,Sim,5,Não,2,1,4.001 a 8.000,6846,344.1,2024-09-01
+PRJ1055,49,4,Compartilhado,Cloud,Não,1,Não,2,7,4.001 a 8.000,4846,295.4,2025-01-29
+PRJ1056,37,4,Compartilhado,Cloud,Sim,4,Sim,5,5,4.001 a 8.000,5143,322.6,2024-02-22
+PRJ1057,80,1,Dedicado,Cloud,Sim,1,Não,5,4,8.001 a 15.000,10338,374.7,2024-07-09
+PRJ1058,83,8,Compartilhado,On Premise,Não,3,Sim,4,10,1.001 a 4.000,1375,639.2,2025-04-27
+PRJ1059,38,3,Dedicado,Cloud,Não,5,Sim,3,4,4.001 a 8.000,5026,323.6,2024-01-19
+PRJ1060,52,7,Compartilhado,Cloud,Não,0,Não,2,4,8.001 a 15.000,9455,294.7,2026-05-16
+PRJ1061,6,2,Compartilhado,Cloud,Não,0,Não,3,6,1.001 a 4.000,1209,231.1,2023-09-25
+PRJ1062,4,2,Compartilhado,Cloud,Não,4,Não,4,8,4.001 a 8.000,4700,278.0,2026-04-09
+PRJ1063,8,7,Compartilhado,On Premise,Não,3,Sim,5,8,8.001 a 15.000,12741,363.0,2026-01-21
+PRJ1064,56,6,Compartilhado,Cloud,Sim,2,Sim,6,5,4.001 a 8.000,5037,480.5,2026-05-07
+PRJ1065,6,3,Dedicado,Cloud,Não,3,Não,3,6,Acima de 15.000,15250,260.1,2025-10-15
+PRJ1066,56,9,Dedicado,On Premise,Não,0,Não,5,4,4.001 a 8.000,4747,428.2,2024-11-06
+PRJ1067,65,10,Compartilhado,Cloud,Sim,0,Sim,5,9,8.001 a 15.000,14168,572.2,2025-02-13
+PRJ1068,20,6,Compartilhado,Cloud,Não,5,Sim,1,8,Até 1.000,390,387.5,2023-09-21
+PRJ1069,46,10,Compartilhado,Cloud,Não,3,Sim,3,10,1.001 a 4.000,3878,431.2,2024-03-16
+PRJ1070,36,10,Compartilhado,Cloud,Sim,3,Não,6,10,1.001 a 4.000,2018,491.1,2024-08-14
+PRJ1071,76,6,Compartilhado,Cloud,Sim,0,Sim,3,1,Até 1.000,753,409.2,2026-04-24
+PRJ1072,64,1,Compartilhado,Cloud,Não,2,Sim,5,2,8.001 a 15.000,12655,357.9,2025-10-11
+PRJ1073,16,4,Compartilhado,Cloud,Sim,4,Sim,6,9,Acima de 15.000,15003,392.5,2024-12-20
+PRJ1074,50,10,Compartilhado,On Premise,Não,6,Sim,4,8,4.001 a 8.000,5532,486.1,2025-01-29
+PRJ1075,17,6,Dedicado,Cloud,Não,4,Sim,1,3,8.001 a 15.000,10671,357.9,2024-07-06
+PRJ1076,74,6,Compartilhado,Cloud,Não,3,Não,5,8,4.001 a 8.000,6426,447.8,2024-06-19
+PRJ1077,80,11,Dedicado,Cloud,Não,4,Sim,2,1,1.001 a 4.000,1850,534.7,2026-02-23
+PRJ1078,89,5,Compartilhado,Cloud,Não,0,Não,2,10,4.001 a 8.000,5513,444.3,2023-01-06
+PRJ1079,64,1,Compartilhado,Cloud,Sim,0,Sim,1,4,8.001 a 15.000,13910,329.4,2024-02-12
+PRJ1080,42,8,Dedicado,Cloud,Não,3,Não,4,3,4.001 a 8.000,4962,404.4,2024-06-05
+PRJ1081,87,5,Compartilhado,On Premise,Não,3,Não,5,6,4.001 a 8.000,4698,499.9,2025-06-07
+PRJ1082,82,5,Compartilhado,Cloud,Sim,6,Não,3,7,Acima de 15.000,15938,568.8,2024-06-09
+PRJ1083,84,7,Dedicado,Cloud,Não,6,Não,1,4,Até 1.000,905,538.6,2024-02-05
+PRJ1084,55,4,Dedicado,Cloud,Não,5,Sim,4,7,8.001 a 15.000,10054,436.8,2023-04-11
+PRJ1085,26,6,Compartilhado,On Premise,Não,3,Sim,3,9,1.001 a 4.000,2916,375.7,2023-12-01
+PRJ1086,28,4,Compartilhado,Cloud,Não,2,Não,2,2,8.001 a 15.000,11884,278.6,2023-05-16
+PRJ1087,62,3,Compartilhado,Cloud,Não,4,Não,2,3,Até 1.000,232,378.1,2025-06-13
+PRJ1088,43,7,Compartilhado,Cloud,Não,3,Não,3,5,1.001 a 4.000,3162,360.2,2024-06-30
+PRJ1089,31,8,Compartilhado,On Premise,Não,1,Não,1,3,4.001 a 8.000,5720,283.8,2023-10-19
+PRJ1090,17,4,Compartilhado,Cloud,Não,5,Não,2,8,4.001 a 8.000,4542,276.6,2024-11-20
+PRJ1091,47,2,Compartilhado,On Premise,Não,1,Não,5,10,4.001 a 8.000,5873,324.6,2024-09-21
+PRJ1092,67,10,Compartilhado,Cloud,Não,0,Sim,6,8,Acima de 15.000,15164,561.2,2024-08-26
+PRJ1093,73,3,Compartilhado,Cloud,Não,6,Não,3,8,1.001 a 4.000,1567,428.9,2025-01-10
+PRJ1094,11,1,Dedicado,Cloud,Sim,4,Não,3,9,4.001 a 8.000,5052,293.4,2025-03-11
+PRJ1095,3,8,Dedicado,Cloud,Não,3,Sim,2,4,1.001 a 4.000,1406,306.7,2023-08-30
+PRJ1096,10,3,Compartilhado,Cloud,Não,1,Não,1,5,8.001 a 15.000,10416,199.6,2023-07-17
+PRJ1097,65,10,Compartilhado,Cloud,Sim,4,Sim,5,5,1.001 a 4.000,3679,523.9,2025-07-22
+PRJ1098,13,7,Compartilhado,On Premise,Não,0,Não,1,8,1.001 a 4.000,3678,206.7,2026-05-27
+PRJ1099,83,10,Dedicado,Cloud,Sim,6,Sim,4,7,8.001 a 15.000,12338,705.1,2024-12-01
+PRJ1100,10,5,Dedicado,Cloud,Sim,2,Não,4,9,8.001 a 15.000,11481,339.6,2024-07-29
+PRJ1101,37,10,Dedicado,Cloud,Não,5,Não,6,8,8.001 a 15.000,11933,454.8,2025-03-04
+PRJ1102,37,5,Dedicado,Cloud,Sim,4,Sim,2,2,8.001 a 15.000,8260,408.6,2023-02-14
+PRJ1103,35,7,Compartilhado,Cloud,Não,4,Não,2,10,8.001 a 15.000,11645,450.1,2024-04-20
+PRJ1104,7,9,Dedicado,Cloud,Não,2,Não,2,4,8.001 a 15.000,12921,284.9,2024-04-03
+PRJ1105,43,5,Compartilhado,Cloud,Não,4,Não,6,6,8.001 a 15.000,12793,423.5,2024-06-20
+PRJ1106,30,1,Compartilhado,On Premise,Sim,0,Sim,4,2,8.001 a 15.000,11246,248.0,2025-08-08
+PRJ1107,9,10,Dedicado,On Premise,Sim,0,Sim,1,7,4.001 a 8.000,6182,329.8,2024-09-23
+PRJ1108,75,10,Compartilhado,Cloud,Não,2,Sim,6,3,8.001 a 15.000,9374,525.1,2025-12-28
+PRJ1109,74,1,Compartilhado,Cloud,Não,5,Não,6,3,8.001 a 15.000,11581,400.6,2024-08-23
+PRJ1110,14,2,Dedicado,Cloud,Não,3,Não,1,2,4.001 a 8.000,6638,254.0,2023-02-13
+PRJ1111,36,6,Compartilhado,Cloud,Sim,1,Não,2,8,1.001 a 4.000,3361,355.2,2025-05-12
+PRJ1112,35,9,Compartilhado,Cloud,Não,3,Não,5,6,4.001 a 8.000,6098,419.3,2025-10-16
+PRJ1113,50,8,Compartilhado,Cloud,Não,4,Não,1,1,8.001 a 15.000,11614,388.2,2025-01-07
+PRJ1114,25,5,Dedicado,On Premise,Não,1,Não,4,1,8.001 a 15.000,14987,261.4,2026-04-12
+PRJ1115,64,1,Compartilhado,Cloud,Sim,2,Sim,3,7,4.001 a 8.000,6296,323.7,2024-06-15
+PRJ1116,39,7,Compartilhado,Cloud,Não,2,Não,3,8,1.001 a 4.000,1037,332.4,2025-10-14
+PRJ1117,46,5,Dedicado,Cloud,Não,5,Sim,6,5,1.001 a 4.000,3371,420.8,2023-01-03
+PRJ1118,88,6,Compartilhado,Cloud,Não,1,Não,3,5,Acima de 15.000,15862,472.9,2023-02-19
+PRJ1119,37,7,Compartilhado,Cloud,Sim,0,Não,5,4,4.001 a 8.000,4665,329.8,2025-10-10
+PRJ1120,67,3,Compartilhado,Cloud,Não,1,Não,2,6,Acima de 15.000,15562,359.2,2026-01-20
+PRJ1121,49,10,Dedicado,Cloud,Não,4,Sim,4,6,8.001 a 15.000,13196,564.6,2024-10-25
+PRJ1122,80,3,Compartilhado,On Premise,Sim,0,Sim,5,3,8.001 a 15.000,8415,386.6,2025-08-19
+PRJ1123,5,5,Dedicado,Cloud,Não,6,Sim,4,9,8.001 a 15.000,13704,344.9,2024-02-21
+PRJ1124,3,6,Dedicado,Cloud,Não,6,Sim,4,7,1.001 a 4.000,3791,331.3,2025-07-17
+PRJ1125,7,9,Dedicado,Cloud,Sim,6,Sim,2,1,1.001 a 4.000,3102,371.0,2024-09-30
+PRJ1126,16,5,Dedicado,Cloud,Sim,2,Não,6,7,4.001 a 8.000,6624,358.3,2024-01-23
+PRJ1127,29,1,Dedicado,Cloud,Não,1,Não,3,5,Até 1.000,776,241.8,2023-04-30
+PRJ1128,11,4,Dedicado,On Premise,Sim,6,Sim,2,5,1.001 a 4.000,3810,371.2,2023-08-12
+PRJ1129,81,5,Compartilhado,On Premise,Não,3,Sim,5,2,4.001 a 8.000,5856,455.3,2026-03-01
+PRJ1130,17,10,Dedicado,On Premise,Sim,5,Sim,6,4,1.001 a 4.000,1925,496.0,2024-07-20
+PRJ1131,44,10,Dedicado,Cloud,Não,3,Não,5,6,4.001 a 8.000,7043,494.1,2026-06-17
+PRJ1132,79,5,Compartilhado,Cloud,Sim,6,Não,6,10,8.001 a 15.000,14019,484.0,2024-03-26
+PRJ1133,53,7,Compartilhado,Cloud,Não,5,Não,5,7,4.001 a 8.000,4083,506.2,2023-03-17
+PRJ1134,65,4,Compartilhado,Cloud,Não,4,Não,2,5,4.001 a 8.000,5493,353.0,2023-11-24
+PRJ1135,54,1,Dedicado,On Premise,Não,3,Não,6,9,1.001 a 4.000,1039,322.1,2024-04-02
+PRJ1136,6,5,Dedicado,Cloud,Não,1,Não,6,3,1.001 a 4.000,3794,277.7,2025-06-14
+PRJ1137,25,7,Dedicado,Cloud,Sim,1,Sim,4,1,8.001 a 15.000,10928,304.4,2025-07-21
+PRJ1138,17,10,Dedicado,Cloud,Não,3,Não,4,4,8.001 a 15.000,8661,349.8,2025-07-30
+PRJ1139,45,10,Dedicado,Cloud,Sim,6,Sim,1,9,Até 1.000,643,545.6,2024-02-06
+PRJ1140,31,6,Dedicado,Cloud,Sim,1,Não,5,4,8.001 a 15.000,14870,389.8,2024-04-30
+PRJ1141,38,5,Dedicado,Cloud,Sim,4,Sim,4,2,1.001 a 4.000,1824,405.1,2024-12-25
+PRJ1142,15,4,Dedicado,Cloud,Não,0,Não,1,10,8.001 a 15.000,10701,235.4,2025-02-13
+PRJ1143,34,2,Compartilhado,On Premise,Não,6,Não,4,5,Até 1.000,985,269.9,2024-06-15
+PRJ1144,73,4,Dedicado,On Premise,Não,4,Não,5,3,8.001 a 15.000,13445,480.6,2023-08-31
+PRJ1145,61,10,Dedicado,Cloud,Não,5,Não,6,9,8.001 a 15.000,13474,621.9,2025-09-15
+PRJ1146,88,10,Compartilhado,Cloud,Sim,4,Sim,3,4,1.001 a 4.000,3858,621.9,2024-10-27
+PRJ1147,30,3,Compartilhado,Cloud,Não,6,Sim,5,6,Até 1.000,381,363.9,2026-05-08
+PRJ1148,68,10,Dedicado,Cloud,Não,5,Sim,2,2,8.001 a 15.000,11691,527.9,2026-04-23
+PRJ1149,44,1,Compartilhado,Cloud,Não,6,Sim,4,6,4.001 a 8.000,7972,440.0,2026-02-08
+PRJ1150,47,8,Compartilhado,Cloud,Sim,1,Não,4,3,1.001 a 4.000,2752,389.7,2026-05-11
+PRJ1151,64,5,Dedicado,Cloud,Não,0,Sim,6,9,8.001 a 15.000,14426,460.0,2025-03-03
+PRJ1152,59,4,Compartilhado,Cloud,Não,6,Não,2,2,8.001 a 15.000,12248,392.5,2024-01-16
+PRJ1153,8,8,Compartilhado,Cloud,Sim,6,Não,6,9,4.001 a 8.000,5939,399.2,2023-07-24
+PRJ1154,30,7,Dedicado,Cloud,Sim,1,Não,2,5,4.001 a 8.000,5104,358.4,2023-05-15
+PRJ1155,30,2,Dedicado,On Premise,Não,2,Sim,3,8,1.001 a 4.000,3918,309.4,2026-04-24
+PRJ1156,46,1,Compartilhado,On Premise,Não,1,Não,4,2,4.001 a 8.000,4250,275.0,2023-12-12
+PRJ1157,86,11,Compartilhado,Cloud,Sim,5,Não,4,6,Até 1.000,251,616.8,2023-01-31
+PRJ1158,32,4,Dedicado,On Premise,Não,1,Não,3,3,1.001 a 4.000,2547,269.2,2023-02-17
+PRJ1159,64,8,Dedicado,Cloud,Sim,1,Não,1,10,1.001 a 4.000,1892,456.1,2024-01-16
+PRJ1160,77,2,Dedicado,On Premise,Não,0,Não,6,5,8.001 a 15.000,10108,399.2,2026-06-04
+PRJ1161,64,3,Compartilhado,On Premise,Não,1,Sim,3,8,8.001 a 15.000,10238,368.8,2023-12-26
+PRJ1162,3,1,Compartilhado,Cloud,Não,6,Não,6,10,8.001 a 15.000,13627,307.7,2023-05-11
+PRJ1163,29,1,Dedicado,Cloud,Não,0,Sim,5,1,8.001 a 15.000,9151,277.0,2025-05-07
+PRJ1164,64,3,Compartilhado,Cloud,Não,3,Sim,4,5,8.001 a 15.000,12547,408.7,2023-03-18
+PRJ1165,79,11,Compartilhado,Cloud,Sim,2,Sim,6,3,4.001 a 8.000,4708,574.7,2024-09-14
+PRJ1166,5,5,Dedicado,Cloud,Não,0,Sim,2,4,8.001 a 15.000,11431,225.8,2023-04-20
+PRJ1167,72,3,Dedicado,Cloud,Não,5,Sim,6,2,Acima de 15.000,15098,497.2,2023-04-29
+PRJ1168,74,1,Compartilhado,Cloud,Não,3,Sim,5,9,4.001 a 8.000,7594,417.3,2024-04-04
+PRJ1169,29,1,Compartilhado,On Premise,Sim,0,Não,4,3,4.001 a 8.000,7768,221.8,2023-01-17
+PRJ1170,11,8,Compartilhado,On Premise,Sim,0,Não,3,2,8.001 a 15.000,13901,261.1,2025-12-22
+PRJ1171,64,10,Compartilhado,Cloud,Sim,2,Não,5,10,Até 1.000,820,486.0,2025-02-10
+PRJ1172,39,11,Dedicado,Cloud,Não,6,Sim,4,9,1.001 a 4.000,3205,535.3,2026-04-06
+PRJ1173,53,2,Compartilhado,Cloud,Não,5,Sim,6,7,8.001 a 15.000,10743,396.3,2024-09-19
+PRJ1174,46,3,Compartilhado,Cloud,Não,4,Não,1,6,8.001 a 15.000,10956,395.4,2024-12-11
+PRJ1175,26,2,Dedicado,On Premise,Não,4,Sim,1,1,8.001 a 15.000,12966,285.5,2025-02-06
+PRJ1176,81,3,Dedicado,Cloud,Não,0,Sim,2,5,8.001 a 15.000,11827,320.3,2024-08-18
+PRJ1177,61,7,Dedicado,Cloud,Sim,1,Não,4,3,1.001 a 4.000,1678,410.3,2024-12-21
+PRJ1178,34,1,Dedicado,Cloud,Não,5,Sim,1,1,8.001 a 15.000,14039,313.9,2025-01-01
+PRJ1179,54,10,Dedicado,Cloud,Não,3,Não,3,4,Até 1.000,436,483.1,2026-02-11
+PRJ1180,64,8,Dedicado,Cloud,Não,1,Não,4,2,4.001 a 8.000,6081,443.1,2024-01-23
+PRJ1181,60,10,Dedicado,On Premise,Não,1,Sim,3,2,8.001 a 15.000,11663,462.0,2026-03-18
+PRJ1182,54,10,Dedicado,Cloud,Não,5,Sim,3,3,4.001 a 8.000,6489,504.8,2023-08-09
+PRJ1183,14,10,Compartilhado,Cloud,Não,6,Não,1,8,4.001 a 8.000,6451,373.6,2023-08-29
+PRJ1184,41,2,Compartilhado,Cloud,Sim,0,Não,4,8,8.001 a 15.000,13442,243.3,2023-11-22
+PRJ1185,4,3,Compartilhado,On Premise,Sim,0,Sim,6,7,4.001 a 8.000,4058,299.0,2026-04-18
+PRJ1186,5,9,Compartilhado,On Premise,Não,0,Não,5,6,8.001 a 15.000,12335,269.8,2023-11-09
+PRJ1187,58,7,Compartilhado,Cloud,Não,0,Sim,1,9,8.001 a 15.000,12605,450.5,2025-10-02
+PRJ1188,83,4,Dedicado,Cloud,Não,4,Não,1,4,1.001 a 4.000,2516,420.9,2025-01-14
+PRJ1189,61,10,Compartilhado,Cloud,Não,0,Não,6,1,1.001 a 4.000,2332,455.5,2025-03-27
+PRJ1190,4,5,Compartilhado,Cloud,Sim,4,Sim,4,8,1.001 a 4.000,1906,344.6,2023-04-10
+PRJ1191,4,2,Compartilhado,On Premise,Sim,4,Sim,4,7,Acima de 15.000,15720,335.5,2025-04-22
+PRJ1192,56,11,Compartilhado,Cloud,Não,6,Sim,3,7,8.001 a 15.000,8030,575.8,2023-03-30
+PRJ1193,89,8,Dedicado,Cloud,Não,0,Sim,6,3,1.001 a 4.000,2048,521.9,2024-11-28
+PRJ1194,3,4,Dedicado,Cloud,Sim,2,Sim,6,4,Acima de 15.000,15371,343.9,2025-10-02
+PRJ1195,21,9,Dedicado,Cloud,Não,3,Não,4,10,4.001 a 8.000,5526,370.9,2026-03-17
+PRJ1196,4,5,Compartilhado,Cloud,Sim,1,Sim,3,9,8.001 a 15.000,9478,274.0,2026-06-17
+PRJ1197,55,9,Compartilhado,On Premise,Não,4,Não,1,6,4.001 a 8.000,4719,490.3,2023-10-25
+PRJ1198,46,4,Dedicado,Cloud,Sim,5,Não,2,5,8.001 a 15.000,12386,374.6,2025-09-07
+PRJ1199,34,10,Compartilhado,Cloud,Não,5,Não,5,3,8.001 a 15.000,9392,446.7,2025-02-04
+PRJ1200,72,5,Compartilhado,Cloud,Sim,3,Não,1,9,4.001 a 8.000,4368,416.2,2025-07-25
+PRJ1201,34,9,Dedicado,Cloud,Não,5,Sim,4,5,4.001 a 8.000,7114,449.8,2025-11-05
+PRJ1202,70,8,Dedicado,Cloud,Sim,2,Não,5,5,4.001 a 8.000,7496,521.4,2024-08-28
+PRJ1203,57,3,Dedicado,Cloud,Sim,5,Não,2,4,1.001 a 4.000,1481,386.0,2023-06-22
+PRJ1204,77,1,Dedicado,On Premise,Não,1,Sim,2,4,4.001 a 8.000,5674,307.0,2025-10-04
+PRJ1205,58,3,Dedicado,Cloud,Não,1,Sim,3,1,4.001 a 8.000,7511,343.0,2025-02-25
+PRJ1206,19,4,Dedicado,Cloud,Não,4,Não,5,7,1.001 a 4.000,1869,291.4,2023-06-20
+PRJ1207,40,2,Dedicado,Cloud,Sim,0,Sim,3,9,8.001 a 15.000,10566,354.9,2024-05-29
+PRJ1208,26,1,Dedicado,Cloud,Não,6,Sim,1,3,8.001 a 15.000,13799,329.7,2023-07-05
+PRJ1209,71,7,Compartilhado,On Premise,Não,2,Sim,6,2,1.001 a 4.000,1180,462.2,2025-09-05
+PRJ1210,72,8,Dedicado,On Premise,Não,4,Sim,6,3,8.001 a 15.000,14019,590.9,2024-03-03
+PRJ1211,88,7,Compartilhado,Cloud,Sim,2,Não,6,1,4.001 a 8.000,6613,498.3,2023-03-28
+PRJ1212,13,5,Compartilhado,Cloud,Não,0,Não,5,6,1.001 a 4.000,2708,273.1,2023-12-30
+PRJ1213,18,1,Compartilhado,Cloud,Sim,5,Não,6,7,1.001 a 4.000,3550,282.2,2025-02-13
+PRJ1214,75,7,Dedicado,Cloud,Sim,5,Sim,1,2,8.001 a 15.000,8616,552.0,2025-01-24
+PRJ1215,61,7,Dedicado,Cloud,Não,6,Sim,3,8,1.001 a 4.000,2170,487.6,2025-12-30
+PRJ1216,72,9,Compartilhado,Cloud,Sim,0,Não,5,6,4.001 a 8.000,4070,428.7,2024-04-05
+PRJ1217,82,3,Compartilhado,Cloud,Não,4,Sim,3,4,8.001 a 15.000,10263,425.0,2025-03-13
+PRJ1218,5,9,Compartilhado,Cloud,Não,6,Sim,5,5,8.001 a 15.000,11947,381.8,2026-04-21
+PRJ1219,22,1,Dedicado,On Premise,Não,0,Não,3,8,8.001 a 15.000,13391,244.6,2024-02-15
+PRJ1220,61,1,Dedicado,Cloud,Não,3,Sim,2,3,1.001 a 4.000,3309,330.1,2023-02-08
+PRJ1221,38,4,Compartilhado,Cloud,Sim,1,Não,3,3,8.001 a 15.000,11677,340.1,2025-04-17
+PRJ1222,21,9,Compartilhado,On Premise,Sim,6,Sim,6,4,8.001 a 15.000,10131,449.6,2025-02-05
+PRJ1223,69,6,Compartilhado,Cloud,Não,6,Sim,2,1,1.001 a 4.000,1873,423.9,2024-03-07
+PRJ1224,21,11,Compartilhado,Cloud,Sim,4,Sim,3,9,1.001 a 4.000,1524,381.5,2024-12-19
+PRJ1225,22,3,Dedicado,Cloud,Não,2,Não,5,8,1.001 a 4.000,2292,281.9,2025-05-03
+PRJ1226,73,1,Compartilhado,Cloud,Sim,3,Não,5,8,8.001 a 15.000,13517,345.7,2025-11-10
+PRJ1227,54,4,Dedicado,On Premise,Sim,4,Não,5,10,1.001 a 4.000,3293,408.9,2023-06-13
+PRJ1228,35,9,Dedicado,On Premise,Não,0,Não,4,6,4.001 a 8.000,7040,411.7,2024-08-24
+PRJ1229,42,3,Compartilhado,Cloud,Sim,0,Sim,1,7,4.001 a 8.000,5210,260.5,2023-12-24
+PRJ1230,41,9,Compartilhado,Cloud,Não,0,Não,5,6,1.001 a 4.000,3184,392.4,2024-03-02
+PRJ1231,84,7,Dedicado,Cloud,Não,0,Não,2,9,1.001 a 4.000,2120,415.7,2023-02-11
+PRJ1232,3,4,Dedicado,Cloud,Não,2,Não,5,3,Até 1.000,409,291.5,2024-06-23
+PRJ1233,13,3,Compartilhado,Cloud,Sim,3,Sim,4,3,Acima de 15.000,15484,368.7,2023-04-18
+PRJ1234,59,10,Dedicado,On Premise,Sim,5,Não,6,3,8.001 a 15.000,14945,595.0,2026-03-28
+PRJ1235,52,5,Compartilhado,Cloud,Sim,1,Sim,2,10,Acima de 15.000,15057,467.1,2024-12-09
+PRJ1236,25,5,Dedicado,On Premise,Não,2,Sim,4,3,8.001 a 15.000,10283,350.8,2024-06-22
+PRJ1237,33,3,Compartilhado,Cloud,Não,2,Não,6,9,1.001 a 4.000,1191,335.8,2023-10-23
+PRJ1238,44,9,Compartilhado,Cloud,Sim,5,Não,2,4,1.001 a 4.000,1685,455.7,2026-04-14
+PRJ1239,9,4,Dedicado,Cloud,Não,5,Sim,3,7,8.001 a 15.000,13741,356.9,2024-10-21
+PRJ1240,18,11,Dedicado,On Premise,Sim,1,Sim,1,9,4.001 a 8.000,4050,320.6,2026-06-12
+PRJ1241,62,5,Dedicado,On Premise,Não,1,Não,1,7,8.001 a 15.000,10185,399.4,2025-04-22
+PRJ1242,4,4,Dedicado,On Premise,Não,5,Não,4,9,8.001 a 15.000,13016,322.2,2026-06-22
+PRJ1243,3,5,Compartilhado,Cloud,Não,0,Não,6,3,1.001 a 4.000,3411,209.9,2026-01-30
+PRJ1244,50,7,Dedicado,Cloud,Não,2,Não,1,4,4.001 a 8.000,6633,379.3,2025-08-05
+PRJ1245,14,9,Compartilhado,On Premise,Não,4,Não,6,8,4.001 a 8.000,7885,400.9,2024-03-29
+PRJ1246,71,7,Dedicado,Cloud,Sim,1,Sim,6,6,8.001 a 15.000,11222,528.3,2025-09-19
+PRJ1247,39,5,Compartilhado,Cloud,Não,1,Não,4,5,Até 1.000,56,316.4,2024-02-11
+PRJ1248,34,10,Compartilhado,Cloud,Sim,5,Sim,4,4,1.001 a 4.000,3317,430.1,2026-01-02
+PRJ1249,11,10,Compartilhado,On Premise,Não,3,Sim,4,8,4.001 a 8.000,6614,366.7,2024-02-05
+PRJ1250,21,7,Compartilhado,On Premise,Não,4,Não,1,1,8.001 a 15.000,9833,325.1,2023-04-09
+PRJ1251,50,10,Compartilhado,Cloud,Não,4,Sim,4,9,4.001 a 8.000,4978,555.6,2023-05-31
+PRJ1252,82,5,Dedicado,On Premise,Não,1,Não,1,1,8.001 a 15.000,11506,463.5,2024-08-03
+PRJ1253,5,3,Compartilhado,On Premise,Não,0,Não,4,8,1.001 a 4.000,2656,218.2,2025-04-26
+PRJ1254,22,7,Compartilhado,Cloud,Não,3,Não,5,4,8.001 a 15.000,11461,375.9,2024-01-05
+PRJ1255,26,11,Compartilhado,Cloud,Não,4,Não,6,9,4.001 a 8.000,5956,503.3,2025-11-12
+PRJ1256,56,11,Dedicado,On Premise,Sim,1,Não,4,5,1.001 a 4.000,3323,461.3,2023-11-23
+PRJ1257,35,2,Compartilhado,Cloud,Sim,4,Não,2,3,4.001 a 8.000,7661,309.9,2024-08-27
+PRJ1258,26,9,Compartilhado,Cloud,Sim,6,Não,6,9,Até 1.000,963,466.1,2024-03-04
+PRJ1259,77,10,Dedicado,Cloud,Sim,3,Sim,6,9,1.001 a 4.000,2061,658.8,2024-12-13
+PRJ1260,74,10,Dedicado,On Premise,Não,3,Não,4,4,1.001 a 4.000,1492,491.8,2023-08-30
+PRJ1261,38,1,Compartilhado,On Premise,Sim,6,Sim,3,4,4.001 a 8.000,5596,313.1,2026-05-08
+PRJ1262,40,6,Compartilhado,On Premise,Não,2,Não,4,8,8.001 a 15.000,11296,376.5,2026-03-28
+PRJ1263,86,7,Compartilhado,Cloud,Sim,6,Não,6,2,8.001 a 15.000,13840,594.8,2025-06-11
+PRJ1264,27,8,Dedicado,On Premise,Sim,5,Não,2,9,8.001 a 15.000,11788,459.1,2024-11-08
+PRJ1265,20,10,Compartilhado,On Premise,Não,5,Sim,6,6,8.001 a 15.000,12463,469.9,2025-08-09
+PRJ1266,84,9,Dedicado,Cloud,Não,1,Sim,2,9,8.001 a 15.000,14780,565.1,2024-08-21
+PRJ1267,68,2,Dedicado,On Premise,Não,3,Não,1,8,8.001 a 15.000,13154,386.2,2026-02-09
+PRJ1268,56,11,Dedicado,Cloud,Não,2,Sim,5,7,8.001 a 15.000,11170,558.0,2023-03-26
+PRJ1269,37,10,Compartilhado,Cloud,Não,2,Sim,6,1,1.001 a 4.000,1879,463.2,2023-10-03
+PRJ1270,82,2,Compartilhado,Cloud,Sim,4,Sim,4,3,8.001 a 15.000,8817,432.7,2024-08-06
+PRJ1271,63,5,Compartilhado,Cloud,Não,4,Não,1,2,4.001 a 8.000,6518,357.1,2025-04-10
+PRJ1272,43,5,Dedicado,Cloud,Não,6,Não,5,5,8.001 a 15.000,13753,460.3,2025-06-21
+PRJ1273,35,6,Compartilhado,Cloud,Não,2,Sim,4,5,Até 1.000,979,346.9,2025-07-05
+PRJ1274,70,3,Dedicado,Cloud,Sim,6,Sim,3,5,8.001 a 15.000,12001,430.9,2026-04-15
+PRJ1275,35,8,Compartilhado,On Premise,Não,6,Sim,4,4,1.001 a 4.000,3749,428.8,2025-12-11
+PRJ1276,16,1,Compartilhado,Cloud,Sim,4,Não,2,5,8.001 a 15.000,9705,255.6,2026-03-15
+PRJ1277,23,6,Dedicado,Cloud,Sim,3,Não,2,3,8.001 a 15.000,11517,317.2,2024-03-15
+PRJ1278,50,4,Compartilhado,Cloud,Sim,6,Sim,3,1,Acima de 15.000,15895,460.3,2025-06-07
+PRJ1279,22,1,Dedicado,On Premise,Não,0,Sim,1,5,8.001 a 15.000,13170,216.9,2025-05-29
+PRJ1280,10,7,Compartilhado,Cloud,Não,3,Sim,5,9,1.001 a 4.000,1104,346.0,2025-02-11
+PRJ1281,9,9,Compartilhado,Cloud,Não,2,Não,4,9,Acima de 15.000,15797,343.0,2025-02-10
+PRJ1282,69,4,Dedicado,On Premise,Não,2,Não,2,4,4.001 a 8.000,5794,374.4,2024-11-01
+PRJ1283,19,4,Compartilhado,Cloud,Não,6,Sim,1,3,1.001 a 4.000,1950,306.5,2024-06-06
+PRJ1284,35,6,Dedicado,Cloud,Sim,3,Sim,3,1,8.001 a 15.000,9699,342.9,2023-06-24
+PRJ1285,50,3,Compartilhado,Cloud,Não,4,Sim,6,2,4.001 a 8.000,7030,389.3,2023-05-10
+PRJ1286,78,6,Compartilhado,On Premise,Não,4,Não,2,8,4.001 a 8.000,7119,533.0,2023-01-04
+PRJ1287,61,7,Compartilhado,Cloud,Sim,5,Sim,3,1,8.001 a 15.000,9641,428.4,2024-03-26
+PRJ1288,88,11,Dedicado,On Premise,Não,2,Não,4,8,1.001 a 4.000,3465,599.7,2024-04-20
+PRJ1289,24,10,Compartilhado,Cloud,Não,1,Não,5,7,Até 1.000,492,380.1,2026-05-15
+PRJ1290,32,10,Compartilhado,On Premise,Não,5,Sim,2,8,8.001 a 15.000,11892,463.9,2023-11-06
+PRJ1291,40,3,Dedicado,On Premise,Não,4,Sim,2,6,4.001 a 8.000,6268,373.4,2023-10-04
+PRJ1292,53,7,Dedicado,On Premise,Não,3,Sim,4,9,4.001 a 8.000,4702,392.8,2023-02-26
+PRJ1293,56,3,Compartilhado,Cloud,Não,4,Não,6,3,4.001 a 8.000,7989,399.2,2023-05-26
+PRJ1294,10,2,Compartilhado,On Premise,Não,3,Não,1,10,4.001 a 8.000,7883,215.8,2025-04-19
+PRJ1295,29,10,Compartilhado,Cloud,Não,5,Não,5,4,8.001 a 15.000,9420,440.5,2024-04-14
+PRJ1296,29,4,Compartilhado,Cloud,Sim,2,Não,2,6,4.001 a 8.000,7647,290.9,2025-03-01
+PRJ1297,23,8,Compartilhado,Cloud,Não,4,Sim,5,8,8.001 a 15.000,14375,496.9,2023-05-09
+PRJ1298,32,9,Dedicado,On Premise,Não,6,Não,2,5,4.001 a 8.000,4508,431.8,2025-09-01
+PRJ1299,30,7,Dedicado,On Premise,Sim,3,Não,5,3,4.001 a 8.000,6641,379.5,2023-12-08
