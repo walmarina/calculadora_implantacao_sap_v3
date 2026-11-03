@@ -1,0 +1,41 @@
+{
+  "modelo_escolhido": "Lasso (L1)",
+  "criterio_escolha": "menor RMSE médio na validação cruzada 5-fold (base de treino)",
+  "divisao": {
+    "treino": 240,
+    "teste": 60
+  },
+  "metricas_teste": {
+    "MAE": 23.87,
+    "MSE": 888.26,
+    "RMSE": 29.8,
+    "R2": 0.8946
+  },
+  "alpha_ridge": 5.62341325190349,
+  "alpha_lasso": 0.31622776601683794,
+  "faixa_residuos_p10_p90": [
+    -40.4,
+    38.6
+  ],
+  "variaveis_entrada": [
+    "numero_usuarios",
+    "numero_filiais",
+    "qtd_addons",
+    "qtd_modulos",
+    "complexidade_importacao",
+    "notas_mensal",
+    "tipo_ambiente",
+    "modalidade",
+    "usa_van_bancaria",
+    "plano_contas_customizado",
+    "usuarios_x_filiais (criada)"
+  ],
+  "variaveis_excluidas": {
+    "id_projeto": "identificador, não ajuda a generalizar",
+    "data_proposta": "data da proposta, sem relação causal com o esforço",
+    "ano": "derivada da data da proposta",
+    "trimestre": "derivada da data da proposta",
+    "porte": "derivada de numero_usuarios (redundância)",
+    "volume_notas_mensal": "faixa derivada de notas_mensal (redundância)"
+  }
+}
