@@ -41,7 +41,8 @@ Para o desenvolvimento e a validação da prova de conceito, o projeto utiliza c
 - Cinco visualizações com Matplotlib, com justificativa de como cada uma auxilia a tomada de decisão
 - Distribuição de horas pelas cinco fases da metodologia SAP AIP
 
-## 2ª etapa 
+## 2ª etapa
+
 ### Fonte de dados e banco de dados
 
 O script `src/gerar_dados.py` reproduz exatamente a base da 1ª etapa (mesma semente aleatória, mesmas variáveis e mesmos pesos), acrescentando apenas a data da proposta comercial, gerada com semente independente para alimentar a dimensão tempo do Data Warehouse.
@@ -104,7 +105,7 @@ python src/modelo.py          # treina, compara e avalia os modelos (pasta model
 streamlit run app.py          # abre a aplicação no navegador
 ```
 
-O notebook da 1ª etapa pode ser aberto diretamente no Google Colab (https://colab.research.google.com/github/walmarina/calculadora_implantacao_sap_v3/blob/main/notebooks/01_analise_exploratoria_etapa1.ipynb) e executado de cima para baixo, sem arquivos externos. O arquivo também pode ser consultado no repositório (notebooks/01_analise_exploratoria_etapa1.ipynb).
+O notebook da 1ª etapa pode ser aberto diretamente no [Google Colab](https://colab.research.google.com/github/walmarina/calculadora_implantacao_sap_v3/blob/main/notebooks/01_analise_exploratoria_etapa1.ipynb) e executado de cima para baixo, sem arquivos externos. O arquivo também pode ser consultado no [repositório](notebooks/01_analise_exploratoria_etapa1.ipynb).
 
 ## Integrantes do grupo
 
