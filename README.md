@@ -41,7 +41,7 @@ Para o desenvolvimento e a validação da prova de conceito, o projeto utiliza c
 - Cinco visualizações com Matplotlib, com justificativa de como cada uma auxilia a tomada de decisão
 - Distribuição de horas pelas cinco fases da metodologia SAP AIP
 
-## 2ª etapa
+## 2ª etapa (concluída)
 
 ### Fonte de dados e banco de dados
 
