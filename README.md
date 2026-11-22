@@ -104,7 +104,7 @@ python src/modelo.py          # treina, compara e avalia os modelos (pasta model
 streamlit run app.py          # abre a aplicação no navegador
 ```
 
-O notebook da 1ª etapa pode ser aberto diretamente no Google Colab e executado de cima para baixo, sem arquivos externos.
+O notebook da 1ª etapa pode ser aberto diretamente no Google Colab (https://colab.research.google.com/github/walmarina/calculadora_implantacao_sap_v3/blob/main/notebooks/01_analise_exploratoria_etapa1.ipynb) e executado de cima para baixo, sem arquivos externos. O arquivo também pode ser consultado no repositório (notebooks/01_analise_exploratoria_etapa1.ipynb).
 
 ## Integrantes do grupo
 
